@@ -7,12 +7,17 @@
 
 ## 🚀 About Me
 
-- 💡 I love turning ideas into real-world applications using my coding skill!
-- 🎙️ Host of the **NADX Podcast**
-- ✝️ Fun fact: I’m also a *Christian counselor* — So whether it’s your code that’s crashing or your heart that’s breaking… I’ve got console.log() and compassion ready. 💻💔🙏
-- 🧠 Favorite subject? **Maths**, where logic meets beauty
-- 👨‍💻 I build solo and collaborate on awesome tech projects
-- 🤝 Always open to exciting collaborations!
+ 💡 I love turning ideas into real-world applications using my coding skill!
+ 
+ 🎙️ Host of the **NADX Podcast**
+ 
+ ✝️ Fun fact: I’m also a *Christian counselor* — So whether it’s your code that’s crashing or your heart that’s breaking… I’ve got console.log() and compassion ready. 💻💔🙏
+ 
+ 🧠 Favorite subject? **Maths**, where logic meets beauty
+ 
+ 👨‍💻 I build solo and collaborate on awesome tech projects
+ 
+ 🤝 Always open to exciting collaborations!
 
 ---
 
