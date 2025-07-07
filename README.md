@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm NADX!
+# 👋 Hi there, I'm Natnael Asfaw(a.k.a NADX)!
 
 🎯 A passionate **Software Engineer** and **Web Developer** from Addis Ababa, Ethiopia.
 
@@ -6,19 +6,19 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently learning **Full Stack MERN Web Development** & mastering **DSA**
+ 🔭 I'm currently learning **Full Stack MERN Web Development** & mastering **DSA**
   
-- 💬 I love turning ideas into digital products — from features to full-stack apps!
+ 💬 I love turning ideas into digital products — from features to full-stack apps!
   
-- 🎙️ Host of the **NADX Podcast**
+ 🎙️ Host of the **NADX Podcast**
   
-- ✝️ Fun fact: I'm not just about semicolons and curly braces - I’m also a *Christian counselor*! So yes, I can console both your broken code and your broken heart. 💬❤
+ ✝️ Fun fact: I'm not just about semicolons and curly braces - I’m also a *Christian counselor*! So yes, I can console both your broken code and your broken heart. 💬❤
   
-- 💡 My favorite subject is **Maths** — where logic meets beauty
+ 💡 My favorite subject is **Maths** — where logic meets beauty
   
-- 👯 I work on both solo and team projects — the more bugs, the merrier 🐛
+ 👯 I work on both solo and team projects — the more bugs, the merrier 🐛
   
-- 🤝 Always open to collaboration and learning new things
+ 🤝 Always open to collaboration and learning new things
 
 ---
 
